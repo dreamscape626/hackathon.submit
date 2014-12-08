@@ -1,4 +1,4 @@
-# 'Save the Forest', a data visualization game 
+# 'Save the Forest', a data visualization
 
 [![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
