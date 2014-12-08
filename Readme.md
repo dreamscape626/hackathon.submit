@@ -1,22 +1,20 @@
-# Koding Global Virtual Hackathon's Submission Example
+# 'Save the Forest', a data visualization game 
 
-This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point. You *do not* have
-send a pull request for this repo. This is just a sample of what your repo can look like when you submit it
-to us as part of the final process for the hackathon.
-
-## Description
+## About 
 
 [![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the hackthon theme you've selected.
+'Save the Forest' was created for the Koding 48 hour hackathon. We have chosen to make an interactive data visualization piece, with a game component, to address the problem of deforestation. The goal of the game is to stop CO2 emissions by planting more trees than the rate of its destruction. Since it is predicted that in 100 years there will be no rain forests (source: http://www.conserve-energy-future.com/various-deforestation-facts.php), the timer runs out in 2114. The data starts at 1990, since that is the earliest available data.
+
+In 'Save the Forest,' players plant trees to remedy the rate of tree consumption, but only by sharing the knowledge of the issue can they hope to fill the world with more trees than CO2 emissions by 2114.
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
 
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-terminal.png "Koding")
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-ide.png "Koding")
+
+![ByteMe](http://pixeldrafts.weebly.com/uploads/1/1/5/2/11524026/3992286_orig.png "ByteMe")
+![ByteMe](http://pixeldrafts.weebly.com/uploads/1/1/5/2/11524026/6073512_orig.png "ByteMe")
 
 ## APIs used
 
-Provide a list of APIs you used in this project.
+Google Geocoding, World Bank Data (worldbank.org), d3
