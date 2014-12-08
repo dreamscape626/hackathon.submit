@@ -1,8 +1,8 @@
 # 'Save the Forest', a data visualization game 
 
-## About 
-
 [![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
+
+## About 
 
 'Save the Forest' was created for the Koding 48 hour hackathon. We have chosen to make an interactive data visualization piece, with a game component, to address the problem of deforestation. The goal of the game is to stop CO2 emissions by planting more trees than the rate of its destruction. Since it is predicted that in 100 years there will be no rain forests (source: http://www.conserve-energy-future.com/various-deforestation-facts.php), the timer runs out in 2114. The data starts at 1990, since that is the earliest available data.
 
